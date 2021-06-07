@@ -8,7 +8,9 @@ Next you can update your site name, avatar and other options using the _config.y
 > asdasd
 
 
-<span style="color: green"> Some green text </span>
+
+
+<h3 style="color:#ff0000">Danger</h3>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
