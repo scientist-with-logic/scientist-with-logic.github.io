@@ -4,7 +4,7 @@ published: false
 
 我现在拿一篇顶级会议的论文当作例子，来给大家剖析一下这篇论文里面的insight和idea。并且帮助大家分析一下，如果从挑别人论文毛病的思路去思考的话，会对这篇论文产生什么样的影响？在下一篇文章中，我还是会拿这个论文当作例子给大家讲解一下，一篇论文里面具体的设计部分应该怎么写。我还会介绍一下不同写作思路对于论文档次高低的影响。
 
-我要介绍的这篇论文的题目是“AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone”。发表在2014年的SenSys会议上。SenSys是CSRanking里面mobile computing领域的三大顶会之一:[http://csrankings.org/#/index?mobile&us](http://csrankings.org/#/index?mobile&us)
+我要介绍的这篇论文的题目是“**_AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone_**”。发表在2014年的SenSys会议上。**SenSys**是CSRanking里面mobile computing领域的三大顶会之一:[http://csrankings.org/#/index?mobile&us](http://csrankings.org/#/index?mobile&us)
 
 这篇论文的链接在这里：[https://doi.org/10.1145/2668332.2668346](https://doi.org/10.1145/2668332.2668346)
 
