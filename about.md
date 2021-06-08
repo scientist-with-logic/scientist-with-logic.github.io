@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /about/
+published: true
 ---
 ## 为什么我要做这个？
 
@@ -8,9 +9,9 @@ permalink: /about/
 
 ## 更多信息
 
-我的知乎：https://www.zhihu.com/people/yi-ge-ke-xue-jia
+我的知乎：[https://www.zhihu.com/people/yi-ge-ke-xue-jia](https://www.zhihu.com/people/yi-ge-ke-xue-jia)
 
-我会用这个google doc作为一个日记，记录下我每个要写的想法。google doc的一个好处就是，大家可以给我写的任何一句话一个字加评论，这样下次我看到大家的评论以后就会修改我写的东西。大家也可以在里面给我留言，提意见。google doc的链接是： https://docs.google.com/document/d/1afJpebhjdzm8t1C7ZcZHa2T01WUXkU8zoWq94-8g6gQ/edit?usp=sharing
+我会用这个google doc作为一个日记，记录下我每个要写的想法。google doc的一个好处就是，大家可以给我写的任何一句话一个字加评论，这样下次我看到大家的评论以后就会修改我写的东西。大家也可以在里面给我留言，提意见。google doc的链接是： [https://docs.google.com/document/d/1afJpebhjdzm8t1C7ZcZHa2T01WUXkU8zoWq94-8g6gQ/edit?usp=sharing](https://docs.google.com/document/d/1afJpebhjdzm8t1C7ZcZHa2T01WUXkU8zoWq94-8g6gQ/edit?usp=sharing)
 
 ## 联系方式
 
